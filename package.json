@@ -1,0 +1,16 @@
+{
+  "name": "vreps-coach-app",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-konva": "^18.0.3",
+    "konva": "^9.3.5",
+    "html2canvas": "^1.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  }
+}
